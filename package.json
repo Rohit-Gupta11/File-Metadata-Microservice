@@ -1,0 +1,17 @@
+{
+  "name": "fm-micro",
+  "version": "1.0.0",
+  "description": "this is a file matadata microservice whcih tells file info",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rohit Gupta",
+  "license": "ISC"
+}
